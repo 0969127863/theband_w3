@@ -59,4 +59,7 @@
         padding: 60px 16px;
         background-color: #fff;
     }
+    .content__contact-btn {
+        width: 100%;
+    }
 }
