@@ -1,5 +1,5 @@
 .grid {
-    width: 100%;
+    width: 98%;
     display: block;
     padding: 0;
     margin: 0 auto;
@@ -122,7 +122,7 @@
 /* Tablet - độ phân giải thấp */
 @media (min-width: 768px) and (max-width: 1024px) {
     .wide {
-        width: 644px;
+        width: 100%;
     }
     .m-0 {
         display: none;
